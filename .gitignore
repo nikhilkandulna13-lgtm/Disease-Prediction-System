@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Environment variables
+
+frontend/frontend/.env
+.env
+*.env
+
+server/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Package lock (optional)
+# package-lock.json
